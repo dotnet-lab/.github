@@ -17,4 +17,4 @@ NCC was founded in mid-2016, and has received support from numerous organization
 
 Without accumulating small steps, one cannot reach a thousand miles; without gathering small streams, one cannot become a vast sea. The outstanding member projects in the NCC community will bring surprises and efficiency improvements to every developer.
 
-[Home](https://github.com/dotnetcore/Home) · [Labs](https://github.com/dotnet-lab) · [WebSite](https://dotnetcore.xyz)
+[Home](https://github.com/dotnetcore/Home) · [Labs](https://github.com/dotnet-lab) · [WebSite](https://www.dotnetcore.xyz)
